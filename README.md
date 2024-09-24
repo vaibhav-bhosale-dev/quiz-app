@@ -4,7 +4,7 @@ Quiz App (API-based)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Stepa](#steps)
+- [Steps](#steps)
 - [API Endpoints](#api-endpoints)
 
 ## Introduction
