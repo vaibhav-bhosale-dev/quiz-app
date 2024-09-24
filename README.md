@@ -26,7 +26,7 @@ o Endpoint to submit an answer for a specific question in a quiz.
 o Return immediate feedback if the answer is correct or incorrect and provide
 the correct answer if the user was wrong.
 
-• Get Results:
+Get Results:
 o Endpoint to get the user's results for a specific quiz.
 o Return the score and a summary of the user's answers (correct/incorrect).
 
