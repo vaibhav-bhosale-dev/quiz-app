@@ -33,7 +33,7 @@ o Return the score and a summary of the user's answers (correct/incorrect).
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/vaibhav-bhosale-dev/quiz-app.git
     ```
 2. Install dependencies:
     ```bash
