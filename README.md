@@ -3,8 +3,7 @@ Quiz App (API-based)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Steps](#steps)
+- [Installation Steps](#steps)
 - [API Endpoints](#api-endpoints)
 
 ## Introduction
